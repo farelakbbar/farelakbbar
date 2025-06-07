@@ -2,6 +2,6 @@
 - 👀 I’m interested in software development, open source projects, and learning new technologies.
 - 🌱 I’m currently learning advanced Python, cloud computing, and DevOps best practices.
 - 💞️ I’m looking to collaborate on innovative tech projects, automation tools, and community-driven open source initiatives.
-- 📫 How to reach me: You can reach me via GitHub or email at farelakbbar@example.com.
+- 📫 How to reach me: You can reach me via GitHub or email at farelakbbar@gmail.com.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can solve a Rubik’s cube in under a minute!
